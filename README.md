@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Getting started with `react-query`
 
-![CI/CD](https://github.com/:user/:repository/workflows/CI/badge.svg)
-[![codecov](https://codecov.io/gh/:user/:repository/branch/master/graph/badge.svg?token=:TOKEN)](https://codecov.io/gh/:user/:repository)
+<!-- ![CI/CD](https://github.com/:user/:repository/workflows/CI/badge.svg)
+[![codecov](https://codecov.io/gh/:user/:repository/branch/master/graph/badge.svg?token=:TOKEN)](https://codecov.io/gh/:user/:repository) -->
 ![License](https://img.shields.io/github/license/:user/:repository)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+<!-- ## Features
 
 - Inherit from package [`cra-template-typescript`](https://www.npmjs.com/package/cra-template-typescript)
 - Configure `eslint` with `prettier`
@@ -25,7 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - Replace `:user` and `:repository` by your own.
   - Navigate to [Codecov](https://codecov.io) login and get `Repository Upload Token` for your repository.
   - Replace `:TOKEN` with your markdown Codecov badge.
-- Add repository secrets `DEPLOY_ACCESS_TOKEN` generated from `https://github.com/settings/tokens/new` with the first four checked options of `repo`.
+- Add repository secrets `DEPLOY_ACCESS_TOKEN` generated from `https://github.com/settings/tokens/new` with the first four checked options of `repo`. -->
 
 ## Available Scripts
 
