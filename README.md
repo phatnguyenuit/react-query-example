@@ -2,7 +2,7 @@
 
 <!-- ![CI/CD](https://github.com/:user/:repository/workflows/CI/badge.svg)
 [![codecov](https://codecov.io/gh/:user/:repository/branch/master/graph/badge.svg?token=:TOKEN)](https://codecov.io/gh/:user/:repository) -->
-![License](https://img.shields.io/github/license/:user/:repository)
+![License](https://img.shields.io/github/license/phatnguyenuit/react-query-example)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
